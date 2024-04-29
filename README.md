@@ -4,4 +4,28 @@
 I'm a software developer and data scientist currently working at AdditioApp. I'm interested in programming and economics. I love reading and playing videogames. 
 
 
-[![](https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/bryanmperezr/) 
+
+### Tech stack
+![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
+![Static Badge](https://img.shields.io/badge/Tensorflow-black?logo=tensorflow)
+![Static Badge](https://img.shields.io/badge/Pytorch-black?logo=pytorch)
+
+![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![Static Badge](https://img.shields.io/badge/MYSQL-black?logo=mysql)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
+![Static Badge](https://img.shields.io/badge/Node.JS-black?logo=node.js)
+
+![Static Badge](https://img.shields.io/badge/Javascript-black?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Tailwind_css-black?logo=tailwind-css)
+![Static Badge](https://img.shields.io/badge/React-black?logo=react)
+
+With continuous learning 😜
+
+
+### Current projects
+
+The current public project would be the [Carcassone repo](https://github.com/Drackorby/carcassonne). It was for my master thesis and now it is waiting to get some improvements.
+
+I am also working on private repositories but I can't share more information about them 😬
+
+
